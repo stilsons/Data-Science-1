@@ -1,4 +1,5 @@
-# Data-Science-1
+# Hello-World
+
 This is my first folder for DS 311 at SFSU.
 
 Section 1: Describe the data through ED.
